@@ -1,0 +1,13 @@
+[source]
+    [source.dbd64]
+    url = ""
+    [source.dbd64.1]
+        resource_id = ""
+        title = "รายชื่อนิติบุคคลจัดตั้งใหม่"
+    [source.dbd64.2]
+        resource_id = ""
+        title = "รายชื่อนิติบุคคลเลิกกิจการ"
+
+[ckan]
+base_url = ""
+api_key = ""
