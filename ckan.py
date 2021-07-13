@@ -3,7 +3,7 @@ import tempfile
 import csv
 import os
 from pprint import pprint
-from requests.sessions import Session
+from requests import Session
 from dbd import CSV_HEADERS
 
 """

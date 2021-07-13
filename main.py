@@ -1,5 +1,4 @@
 from ckan import push2ckan
-import configparser
 import toml
 from dbd import get_dbd_csv, process_dbd_csv
 

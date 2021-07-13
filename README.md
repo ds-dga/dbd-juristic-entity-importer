@@ -18,3 +18,9 @@ Fill up `settings.toml` (copy everything from `settings.toml.init` as a start)
 Run the program
 
     python main.py
+
+
+## Test
+
+    docker build -t autoscript -f Dockerfile .
+    docker run -it autoscript sh
